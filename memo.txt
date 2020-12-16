@@ -1,0 +1,41 @@
+gitについてのメモ
+
+gitが入っているか確認
+	git --version
+
+userをセット
+	git config user.name 'ユーザネーム'
+	git config use.email 'メールアドレス'
+
+cloneの仕方(リモートリポから)
+	git clone リモートリポのURL
+	    → 上記を実行することでローカルの.gitフォルダと紐づけされる
+
+branchの一覧
+	git branch
+
+branchの作成(-bオプションについては切り替えも同時にするオプション)
+	git checkout -b branch名
+
+リポの確認
+	git status
+	  
+流れ
+	working directory  →  staging area  →  repository
+			  add		   commit
+
+Staging	
+	git add ファイル名やコマンド(git add .)でカレントディレクトリ以下すべて
+
+Commit
+	git commit -m 'メッセージ'
+		-mはコミットメッセージをつけるときのオプション
+
+commitの履歴を確認
+	git log
+
+pull
+	git pull レポジトリ　ブランチ
+
+push 
+	git push レポジトリ　ブランチ
