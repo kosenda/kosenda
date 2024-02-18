@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kotlin-Light.svg" alt="kotlin" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Light.svg" alt="android" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" alt="github" width="60" height="60"/> 
 </p>
 
 
