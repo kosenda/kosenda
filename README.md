@@ -2,13 +2,13 @@
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kotlin-Light.svg" alt="kotlin" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Light.svg" alt="android" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg" alt="java" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="60" height="60"/> 
-
-
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="60" height="60"/> 
+</p>
 
 
 <p>
+  <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/contributions.svg" />
+  <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/posts.svg" />
   <img height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?style=social" />
   <image height="20" src="https://komarev.com/ghpvc/?username=kosenda" />
 </p>
@@ -25,7 +25,8 @@
 ### 経歴
 - 2017年3月〜2020年4月 航空自衛隊 (職種 - 警戒管制)
 - 2020年6月〜2023年2月 システム開発 (メイン - Java）
-- 2023年3月〜 Androidエンジニア
+- 2023年3月〜現在 Androidアプリ開発
+
 ### 制作物 / 資格
 - 自作アプリ (Google Play) https://play.google.com/store/apps/dev?id=6426410011994727427
 - 2021年3月　基本情報技術者試験　取得
