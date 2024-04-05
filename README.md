@@ -4,18 +4,14 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Dark.svg" alt="android" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" alt="github" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg" alt="github actoins" width="60" height="60"/> 
-  
 </p>
 
 
 <p>
   <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/contributions.svg" />
   <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/posts.svg" />
-  <img height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?style=social" />
+  <image height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?style=social" />
   <image height="20" src="https://komarev.com/ghpvc/?username=kosenda" />
-  <a href="http://twitter.com/ksnd_dev">
-    <img height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
   
   
