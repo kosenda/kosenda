@@ -13,6 +13,9 @@
   <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/posts.svg" />
   <img height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?style=social" />
   <image height="20" src="https://komarev.com/ghpvc/?username=kosenda" />
+  <a href="http://twitter.com/ksnd_dev">
+    <img height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?label=Twitter&logo=twitter&style=flat" />
+  </a>
 </p>
   
   
@@ -22,6 +25,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kosenda&theme=radical&rank=-C)](https://github.com/kosenda/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosenda&theme=radical&utcOffset=9)
 
 
 ### 経歴
@@ -34,4 +39,3 @@
 - [自作アプリ (Google Play)](https://play.google.com/store/apps/dev?id=6426410011994727427)
 - 2021年3月　基本情報技術者試験　取得
 - 2022年6月　応用情報技術者試験　取得
-
