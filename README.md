@@ -20,9 +20,11 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=kosenda&show_icons=true&theme=radical&count_private=true" />
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kosenda&theme=radical&rank=-C)](https://github.com/kosenda/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosenda&theme=radical&utcOffset=9)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kosenda&theme=radical)](https://git.io/streak-stats)
 
 
 ### 経歴
