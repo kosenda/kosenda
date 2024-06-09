@@ -1,8 +1,10 @@
 <img alt="KSND" src="header.svg" width="98.2%" height="100%">
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="60">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" width="60">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="60">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=md&theme=dark" width="48">
 </p>
 <!-- 
 ref: https://github.com/LelouchFR/skill-icons
