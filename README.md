@@ -1,11 +1,12 @@
 <img alt="KSND" src="header.svg" width="98.2%" height="100%">
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kotlin-Dark.svg" alt="kotlin" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Dark.svg" alt="android" width="60" height="60"/> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" alt="github" width="60" height="60"/> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg" alt="github actoins" width="60" height="60"/> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="60">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" width="60">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="60">
 </p>
-
+<!-- 
+ref: https://github.com/LelouchFR/skill-icons
+-->
 
 <p>
   <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/contributions.svg" />
