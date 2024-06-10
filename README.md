@@ -25,7 +25,7 @@ ref: https://github.com/LelouchFR/skill-icons
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kosenda&theme=radical&rank=-C)](https://github.com/kosenda/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kosenda&theme=radical&rank=-B)](https://github.com/kosenda/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosenda&theme=radical&utcOffset=9)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kosenda&theme=radical)](https://git.io/streak-stats)
