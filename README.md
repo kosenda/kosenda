@@ -2,6 +2,7 @@
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose&theme=dark" width="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=md&theme=dark" width="48">
