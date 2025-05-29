@@ -11,13 +11,6 @@
 <!-- 
 ref: https://github.com/LelouchFR/skill-icons
 -->
-
-<p>
-  <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/contributions.svg" />
-  <image height="20" src="https://qiita-badge.apiapi.app/s/ksnd/posts.svg" />
-  <image height="20" src="https://img.shields.io/twitter/follow/ksnd_dev?style=social" />
-  <image height="20" src="https://komarev.com/ghpvc/?username=kosenda" />
-</p>
   
   
 <p align="left"> 
