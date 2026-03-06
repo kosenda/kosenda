@@ -1,6 +1,8 @@
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=android&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" width="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" width="48">
 </p>
 <!-- 
 ref: https://github.com/LelouchFR/skill-icons
@@ -19,7 +21,7 @@ ref: https://github.com/LelouchFR/skill-icons
 ### 経歴
 - 2017年3月〜2020年4月 航空自衛隊
 - 2020年6月〜2023年2月 システム開発
-- 2023年3月〜現在 Androidアプリ開発
+- 2023年3月〜現在 ネイティブアプリ開発
 
 ### 制作物 / 資格 など
 - [Qiita](https://qiita.com/KSND)
@@ -32,7 +34,7 @@ ref: https://github.com/LelouchFR/skill-icons
 ### Experience
 - Mar 2017 - Apr 2020 Japan Air Self-Defense Force
 - Jun 2020 - Feb 2023 System Development
-- Mar 2023 - Present Android App Development
+- Mar 2023 - Present Native Mobile App Development
 
 ### Portfolio / Certifications
 - [Personal Apps (Google Play)](https://play.google.com/store/apps/dev?id=6426410011994727427)
