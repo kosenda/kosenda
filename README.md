@@ -13,10 +13,7 @@ ref: https://github.com/LelouchFR/skill-icons
 </p>
 
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kosenda&theme=radical)](https://git.io/streak-stats)
-
----
 
 
 ### 経歴
@@ -30,6 +27,7 @@ ref: https://github.com/LelouchFR/skill-icons
 - 2021年3月　基本情報技術者試験　取得
 - 2022年6月　応用情報技術者試験　取得
 
+---
 
 ### Experience
 - Mar 2017 - Apr 2020 Japan Air Self-Defense Force
